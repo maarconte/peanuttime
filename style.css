@@ -1,0 +1,10 @@
+.program_list {
+    padding: 0;
+}
+
+.list_item {
+    list-style: none;
+}
+.description {
+    text-align: center;
+}
